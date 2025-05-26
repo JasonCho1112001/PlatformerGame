@@ -1,5 +1,5 @@
-**Platform Improvement**
+**Diamond Run**
 
-Starter code for creating a platformer game using Arcade Phsyics in Phaser.
+Platformer game project by Jason Cho
 
-Visual assets courtesy of [Kenny Assets](https://kenney.nl/assets), with gratitude.
+Visual and audio assets courtesy of [Kenny Assets](https://kenney.nl/assets), with gratitude.
